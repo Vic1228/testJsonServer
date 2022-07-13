@@ -1,9 +1,6 @@
-{
-  "ModelName": {
-    "fieldName": {
-      "type": "123",
-      "hasMany": "Model",
-      "belongsTo": "Model"
-    }
+[
+  {
+    "name": "dog",
+    "age": 22
   }
-}
+]
